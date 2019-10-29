@@ -39,5 +39,3 @@
 * рендеринг .html страниц на GitHub Pages (мы будем обсуждать)
 
 Полезно знать про раздел [GitHub Guides](https://guides.github.com/).
-
-## Оценка: 
